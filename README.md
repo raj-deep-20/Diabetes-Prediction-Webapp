@@ -229,15 +229,11 @@ This project demonstrates expertise in:
 - [ ] Deploy to cloud platform (AWS/Azure/GCP)
 
 ---
+## Author
 
-## 📧 Contact & Support
-
-For questions or suggestions about this project:
-- GitHub: [your-github-profile]
-- Email: [your-email]
-- LinkedIn: [your-linkedin-profile]
+Rajdeep Podder
 
 ---
 
 **Last Updated:** August 2026  
-**License:** MIT (or your preferred license)
+**License:** MIT 
